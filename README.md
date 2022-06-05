@@ -14,8 +14,8 @@
 ## GitHub Stats
 
 <div>
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=lpereira&show_icons=true&theme=radical">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpereira&show_icons=true&theme=radical">
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=lupesantos&show_icons=true&theme=radical">
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lupesantos&show_icons=true&theme=radical">
   
   
  </div>
@@ -25,3 +25,11 @@
  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 )](luciano#6442)
 📌
+
+
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=lupesantos)
+
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/lupesantos/Python)
