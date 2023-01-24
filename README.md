@@ -1,6 +1,6 @@
 ## Hello, I am Luciano! 🐭
 
-✍ Full-Stack Developer in training
+✍ Full-Stack Developer
 
 
 ## 💻 Technologies & Tools ⛏
