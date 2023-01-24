@@ -43,4 +43,4 @@
 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/lupesantos/Python)
+
